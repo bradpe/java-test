@@ -4,7 +4,7 @@ public class Main1 {
 
   public static void main(String args[]) {
 
-//    new Exception(); //
+    new Exception();
 
     new Main1().test();
 
