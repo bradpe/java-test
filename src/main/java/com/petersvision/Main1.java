@@ -10,10 +10,10 @@ public class Main1 {
 
     new Main1().test();
 
-    System.out.println("This is a test");
+//    System.out.println("This is a test");
   }
 
   public void test() {
-    System.out.println("test");
+//    System.out.println("test");
   }
 }
